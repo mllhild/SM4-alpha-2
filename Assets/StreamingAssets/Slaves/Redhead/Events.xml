@@ -1,0 +1,42 @@
+
+<Slave>
+	<_slaveXMLFileStructuretype>0.1</_slaveXMLFileStructuretype>
+	<Events>
+		<UpdateDateTime><!-- 1 --> 
+			<TestEventRedHead>
+				<ClearTextField/>
+				<AddText>ready</AddText>
+			</TestEventRedHead>
+			
+		</UpdateDateTime> 
+
+		<Night></Night> <!-- 2 to 6 --> 
+
+		<EarlyMorning></EarlyMorning> <!-- 6 to 7 --> 
+		<Breakfast></Breakfast> <!-- 7 to 8 --> 
+
+		<PlanningMorning></PlanningMorning> <!-- 8 --> 
+		<Morning></Morning> <!-- 8 to 12 --> 
+
+			
+		<Midday></Midday> <!-- 12 --> 
+		<Lunch></Lunch> <!-- 12 to 14 --> 
+
+		<Afternoon></Afternoon> <!-- 14 to 18 --> 
+			
+		<FinishPlanning></FinishPlanning> <!-- 18 --> 
+		<Dinner></Dinner> <!-- 18 to 19 --> 
+			
+		<PlanningEvening></PlanningEvening> <!-- 19 to 20 --> 
+		<Evening></Evening> <!-- 20 to 24 --> 
+		<MidNight></MidNight> <!-- 0 --> 
+
+		<Atemporal></Atemporal> <!-- please only use this if it has to be checked constantly -->
+
+		<Continuation></Continuation> <!-- the part 2+ of any event goes in here -->
+	</Events>
+
+	<PalnningActs>
+
+	</PalnningActs>
+</Slave>

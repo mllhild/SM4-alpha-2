@@ -1,0 +1,44 @@
+<SM4>
+	<Planning>
+		<SlaveMakerWorkSubTab01Button01 location='0' characterID='0' tab='0' subtab='0' buttonNumber='0' label='Oral1' hintCode='hintCode00' planningEvent='OralPlanning'/>
+		<SlaveMakerWorkSubTab01Button02 location='0' characterID='0' tab='0' subtab='0' buttonNumber='1' label='Lick' hintCode='hintCode01' planningEvent='AnalPlanning'/>
+		<SlaveMakerWorkSubTab01Button03 location='0' characterID='0' tab='1' subtab='0' buttonNumber='1' label='Lick' hintCode='hintCode00' planningEvent='OralPlanning'/>
+		<SlaveMakerWorkSubTab01Button04 location='0' characterID='0' tab='1' subtab='0' buttonNumber='1' label='Lick' hintCode='hintCode01' planningEvent='AnalPlanning'/>
+		<SlaveMakerWorkSubTab01Button01 location='0' characterID='0' tab='2' subtab='0' buttonNumber='0' label='placeholder' hintCode='hintCode00' planningEvent='OralPlanning'/>
+		<SlaveMakerWorkSubTab01Button01 location='0' characterID='0' tab='1' subtab='0' buttonNumber='1' label='placeholder' hintCode='hintCode01' planningEvent='AnalPlanning'/>
+		<SlaveMakerWorkSubTab01Button01 location='0' characterID='0' tab='2' subtab='1' buttonNumber='0' label='placeholder' hintCode='hintCode00' planningEvent='OralPlanning'/>
+		<SlaveMakerWorkSubTab01Button01 location='0' characterID='0' tab='2' subtab='1' buttonNumber='1' label='placeholder' hintCode='hintCode01' planningEvent='AnalPlanning'/>
+		<SlaveMakerWorkSubTab01Button01 location='0' characterID='0' tab='2' subtab='2' buttonNumber='0' label='placeholder' hintCode='hintCode00' planningEvent='OralPlanning'/>
+
+		<AssistantWorkSubTab01Button01 location='0' characterID='1001' tab='0' subtab='0' buttonNumber='0' label='placeholder' hintCode='hintCode01' planningEvent='OralPlanning'/>
+		<AssistantWorkSubTab01Button01 location='0' characterID='1001' tab='0' subtab='0' buttonNumber='1' label='placeholder' hintCode='hintCode00' planningEvent='AnalPlanning'/>
+		
+		<SlaveWorkSubTab01Button01 location='0' characterID='1' tab='0' subtab='0' buttonNumber='0' label='placeholder' hintCode='hintCode01' planningEvent='OralPlanning'/>
+		<SlaveWorkSubTab01Button01 location='0' characterID='1' tab='0' subtab='1' buttonNumber='1' label='placeholder' hintCode='hintCode00' planningEvent='AnalPlanning'/>
+		<SlaveWorkSubTab01Button01 location='0' characterID='1' tab='1' subtab='2' buttonNumber='0' label='placeholder' hintCode='hintCode01' planningEvent='OralPlanning'/>
+		<SlaveWorkSubTab01Button01 location='0' characterID='1' tab='1' subtab='3' buttonNumber='0' label='placeholder' hintCode='hintCode00' planningEvent='AnalPlanning'/>
+		<SlaveWorkSubTab01Button01 location='0' characterID='1' tab='4' subtab='4' buttonNumber='0' label='placeholder' hintCode='hintCode01' planningEvent='OralPlanning'/>
+		<SlaveWorkSubTab01Button01 location='0' characterID='1' tab='4' subtab='5' buttonNumber='0' label='placeholder' hintCode='hintCode00' planningEvent='AnalPlanning'/>
+	</Planning>
+	<Hints>
+		<Hint hintCode='hintCode00' text='Text 00'/>
+		<Hint hintCode='hintCode01' text='Text 01'/>
+	</Hints>
+	<PlanningEvents>
+		<OralPlanning question='false'>
+			<ClearTextField/>
+			<AddText>Text for OralPlanning.</AddText>
+			<AddText>Logic can be used here.</AddText>
+			<SetPlanningEvent duration='2' participant01='0' participant02='1' event='thisEvent'/>
+		</OralPlanning>
+		<AnalPlanning question='false'>
+			<ClearTextField/>
+			<AddText>Text for AnalPlanning.</AddText>
+			<AskQuestion person='Staff' question='Do you like ponys?'/>
+				<Answer answer='Yes' event='Test0003'/>
+				<Answer answer='No, they are too skiny.' event='Test0004'/>
+				<Answer answer='Test' event='Test0007'/>
+			<SetPlanningEvent duration='2' participant01='0' participant02='-1' event='thisEvent'/>
+		</AnalPlanning>
+	</PlanningEvents>
+</SM4>

@@ -1,0 +1,7 @@
+<Location>
+	<Name display='Beach'/>
+	<Key shortcut='a'/>
+	<Type type='area' visible='true'/>
+	<ScreenLocation posX='420' posY='650'/>
+	<FileOrder world='Talyan' region='Mioya' area='Mardukane' location='Beach'/>
+</Location>

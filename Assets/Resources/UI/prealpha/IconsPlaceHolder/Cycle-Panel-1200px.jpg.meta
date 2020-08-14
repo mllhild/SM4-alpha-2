@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: a66913b4d74d37d47b307aeddabd4d81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1892843084142170709
+    second: Cycle-Panel-1200px_0
+  - first:
+      213: 3146013551795989118
+    second: Cycle-Panel-1200px_1
+  - first:
+      213: 7749306897740128591
+    second: Cycle-Panel-1200px_2
+  - first:
+      213: -3560186244780951712
+    second: Cycle-Panel-1200px_3
+  - first:
+      213: 8886769440312293797
+    second: Cycle-Panel-1200px_4
+  - first:
+      213: 2281821640165816539
+    second: Cycle-Panel-1200px_5
+  - first:
+      213: -6657102441139449152
+    second: Cycle-Panel-1200px_6
+  - first:
+      213: 300311893052519326
+    second: Cycle-Panel-1200px_7
+  - first:
+      213: 4758972266685848856
+    second: Cycle-Panel-1200px_8
+  - first:
+      213: 2333027140065572077
+    second: Cycle-Panel-1200px_9
+  - first:
+      213: -1040456897032347660
+    second: Cycle-Panel-1200px_10
+  - first:
+      213: 6947222799588956240
+    second: Cycle-Panel-1200px_11
+  - first:
+      213: 560979758963104469
+    second: Cycle-Panel-1200px_12
+  - first:
+      213: -2471549000558780048
+    second: Cycle-Panel-1200px_13
+  - first:
+      213: -2995864596747601926
+    second: Cycle-Panel-1200px_14
+  - first:
+      213: -7835692447394561052
+    second: Cycle-Panel-1200px_15
+  - first:
+      213: 462253384429430484
+    second: Cycle-Panel-1200px_16
+  - first:
+      213: 7593669877231138813
+    second: Cycle-Panel-1200px_17
+  - first:
+      213: -5300230017093345327
+    second: Cycle-Panel-1200px_18
+  - first:
+      213: -8147229632992973112
+    second: Cycle-Panel-1200px_19
+  - first:
+      213: 3094908846579986610
+    second: Cycle-Panel-1200px_20
+  - first:
+      213: 9202847027453780871
+    second: Cycle-Panel-1200px_21
+  - first:
+      213: -5385240532005823213
+    second: Cycle-Panel-1200px_22
+  - first:
+      213: -6124814399002824989
+    second: Cycle-Panel-1200px_23
+  - first:
+      213: 4549851036681216138
+    second: Cycle-Panel-1200px_24
+  - first:
+      213: 9214324191620816479
+    second: Cycle-Panel-1200px_25
+  - first:
+      213: 2628723033211919968
+    second: Cycle-Panel-1200px_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 981
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55259dd91cab44a10800000000000000
+      internalID: 1892843084142170709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 978
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a6d5538a2e8ab20800000000000000
+      internalID: 3146013551795989118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 977
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e84fd0911b8b60800000000000000
+      internalID: 7749306897740128591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_3
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 975
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677999197da79ec0800000000000000
+      internalID: -3560186244780951712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 974
+        width: 192
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a97c9ac8b5245b70800000000000000
+      internalID: 8886769440312293797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 764
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f1ee21b8aaaf10800000000000000
+      internalID: 2281821640165816539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 761
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25f72c9983d93a0800000000000000
+      internalID: -6657102441139449152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 763
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93783b531cea2400800000000000000
+      internalID: 300311893052519326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 764
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ddebbff044b0240800000000000000
+      internalID: 4758972266685848856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 762
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de434fea2d3906020800000000000000
+      internalID: 2333027140065572077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 530
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff1848f6fd8f81f0800000000000000
+      internalID: -1040456897032347660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 529
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589ef8045e796060800000000000000
+      internalID: 6947222799588956240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 530
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1e2b5e1009c700800000000000000
+      internalID: 560979758963104469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 528
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e8b0674b43bdd0800000000000000
+      internalID: -2471549000558780048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_14
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 525
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7b0b3a50d8c66d0800000000000000
+      internalID: -2995864596747601926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 305
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e306dffb37024390800000000000000
+      internalID: -7835692447394561052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 300
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6632701014a6600800000000000000
+      internalID: 462253384429430484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 301
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df732f53582226960800000000000000
+      internalID: 7593669877231138813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 298
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd94b91ecc176b0800000000000000
+      internalID: -5300230017093345327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_19
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 298
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceeaed80d93fee80800000000000000
+      internalID: -8147229632992973112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b03d9cc23353fa20800000000000000
+      internalID: 3094908846579986610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 73
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78364a9dc9417bf70800000000000000
+      internalID: 9202847027453780871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 75
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dd1c3b448c345b0800000000000000
+      internalID: -5385240532005823213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 71
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2d3831c9400ba0800000000000000
+      internalID: -6124814399002824989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_24
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 72
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80a3566961542f30800000000000000
+      internalID: 4549851036681216138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cycle-Panel-1200px_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed8de580bdfdf70800000000000000
+      internalID: 9214324191620816479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

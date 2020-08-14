@@ -1,0 +1,105 @@
+<Region>
+	<Mioya>
+			<Mardukane>
+					<Palace>
+						<Events>
+							<PFEDMLLHILDPalace>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/GenericEvents/Images/guard.jpg'/>
+								<AddText>Before you reach your destination you are blocked by a strange guard.</AddText>
+								<BlankLine/>
+								<PersonSpeak person='Strange Guard'>No entrance permitted to the Palace</PersonSpeak>
+							</PFEDMLLHILDPalace>
+						</Events>
+					</Palace>
+
+
+					<Lake>
+						<Events>
+							<PFEDMLLHILDLake>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/GenericEvents/Images/guard.jpg'/>
+								<AddText>Before you reach your destination you are blocked by a strange guard.</AddText>
+								<BlankLine/>
+								<PersonSpeak person='Strange Guard'>No entrance permitted to the Lake</PersonSpeak>
+							</PFEDMLLHILDLake>
+						</Events>
+					</Lake>
+					<TestEvents>
+						<Events>
+							<Test01>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (12).jpg' fit='true' scaleX='0.6' scaleY='0.6'/>
+								<PersonSpeak person='Staff'>We need to do some basic testing</PersonSpeak>
+								<NextEvent event='Test0002'/>
+							</Test01>
+							<Test0002>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (7).png' fit='true' scaleX='0.6' scaleY='0.6'/>
+								<PersonSpeak person='Staff'>So lets cut to the chase!</PersonSpeak>
+								<AskQuestion question='Ready for some questions?'/>
+								<Answer answer='Yes' event='Test0003'/>
+								<Answer answer='No.' event='Test0004'/>
+								<Answer answer='Test' event='Test0005'/>
+							</Test0002>
+							<Test0003>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (11).jpg' fit='true' scaleX='0.6' scaleY='0.6'/>
+								<PersonSpeak person='Kuro'>Heheheee..</PersonSpeak>
+								<NextEvent event='Test01'/>
+							</Test0003>
+							<Test0004>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (10).png' fit='true'/>
+								<PersonSpeak person='Illya'>Here a present!</PersonSpeak>
+								<NextEvent event='Test01'/>
+							</Test0004>
+							<Test0005>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (3).jpg' fit='true' scaleX='0.6' scaleY='0.6'/>
+								<PersonSpeak person='Staff'>So lets cut to the chase!</PersonSpeak>
+								<AskQuestion question='Do you like cows?' pop='true'/>
+								<Answer answer='Yes' event='Test0003' pop='true'/>
+								<Answer answer='No, a lot of useless meat.' event='Test0004' pop='true'/>
+								<Answer answer='Test' event='Test0006' pop='true'/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (15).png' fit='true' misc='Cowgirl' position='PortraitRight'/>
+							</Test0005>
+							<Test0006>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (3).jpg' fit='true' scaleX='0.6' scaleY='0.6'/>
+								<PersonSpeak person='Staff'>So lets cut to the chase!</PersonSpeak>
+								<AskQuestion person='Staff' question='Do you like ponys?' pop='true'/>
+								<Answer answer='Yes' event='Test0003' pop='true'/>
+								<Answer answer='No, they are too skiny.' event='Test0004' pop='true'/>
+								<Answer answer='Test' event='Test0007' pop='true'/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (6).png' fit='true' misc='Ponygirl' position='PortraitLeft'/>
+							</Test0006>
+							<Test0007>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (3).jpg' fit='true' scaleX='0.6' scaleY='0.6'/>
+								<PersonSpeak person='Staff'>So lets cut to the chase!</PersonSpeak>
+								<AskQuestion person='Staff' question='Which do you prefer?' pop='true'/>
+								<Answer answer='Cows' event='Test0003' pop='true'/>
+								<Answer answer='Ponys' event='Test0004' pop='true'/>
+								<Answer answer='Test' event='Test0005' pop='true'/>
+								<Answer answer='both to old' event='Test0005' pop='true'/>
+								<Answer answer='both to old' event='Test0005' pop='true'/>
+								<Answer answer='both to old' event='Test0005' pop='true'/>
+								<Answer answer='both to old' event='Test0005' pop='true'/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (15).png' fit='true' misc='Cowgirl' position='PortraitRight'/>
+								<SetImage path='/Events/mllhildEvents/Images/testImage (6).png' fit='true' misc='Ponygirl' position='PortraitLeft'/>
+							</Test0007>
+						</Events>
+					</TestEvents>
+			</Mardukane>
+	</Mioya>
+</Region>

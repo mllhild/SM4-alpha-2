@@ -1,0 +1,32 @@
+<Region>
+	<Mioya>
+		<Mardukane>
+			<Keep>
+				<Events>
+					<BackgroundTasks>
+						<!-- This is called each time you return home. It is responsible for buffs or debuffs by the house, like tiredness due to distance walked-->
+						<NextEvent event='DefaultWelcome' doNow='true'/>
+					</BackgroundTasks>
+					<DefaultWelcome>
+						<ClearTextField/>
+						<HideImages/>
+						<SetImage path='/World/Mioya/Mardukane/Houses/Keep/SoldierPortrait.png'/>
+						<AddText>Text to show when you return home.</AddText>
+						<BlankLine/>
+						<PersonSpeak person='Guard'>Welcome back</PersonSpeak>
+						<NextEvent event='ShowHouse'/>
+					</DefaultWelcome>
+					<ShowHouse>
+						<ShowCurrentHouse/>
+					</ShowHouse>
+					<ShowHouse2>
+						<ShowCurrentHouse/>
+					</ShowHouse2>
+					<ShowHouse3>
+						<ShowCurrentHouse/>
+					</ShowHouse3>
+				</Events>
+			</Keep>
+		</Mardukane>
+	</Mioya>
+</Region>

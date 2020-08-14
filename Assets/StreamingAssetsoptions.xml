@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<SM4OptionClass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <isOnSandboxmode>true</isOnSandboxmode>
+  <isOnLimitSaving>true</isOnLimitSaving>
+  <isOnDebugMode>true</isOnDebugMode>
+  <isOnCheatsEnabled>true</isOnCheatsEnabled>
+  <valueDifficultyDropdown>0</valueDifficultyDropdown>
+  <valueCombatDifficultyDropdown>0</valueCombatDifficultyDropdown>
+  <isOnNonHumanSexEnabled>true</isOnNonHumanSexEnabled>
+  <isOnFurriesEnabled>true</isOnFurriesEnabled>
+  <isOnBestiaryEnabled>true</isOnBestiaryEnabled>
+  <isOnTentaclesEnabled>true</isOnTentaclesEnabled>
+  <valueTentaclesDropdown>0</valueTentaclesDropdown>
+  <isOnFutanariEnabled>true</isOnFutanariEnabled>
+  <valueFutanariDropdown>0</valueFutanariDropdown>
+  <isOnPermanentFutaTransformation>true</isOnPermanentFutaTransformation>
+  <isOnLesbiansLoveFutas>true</isOnLesbiansLoveFutas>
+  <isOnFutasCanHaveBalls>true</isOnFutasCanHaveBalls>
+  <isOnFemaleSlavesStartAsFutas>true</isOnFemaleSlavesStartAsFutas>
+  <isOnHumanPetsEnabled>true</isOnHumanPetsEnabled>
+  <isOnHumanCattleEnabled>true</isOnHumanCattleEnabled>
+  <isOnPonyGirlTrainingEnabled>true</isOnPonyGirlTrainingEnabled>
+  <isOnCowGirlTrainingEnabled>true</isOnCowGirlTrainingEnabled>
+  <isOnRapeEnabled>true</isOnRapeEnabled>
+  <isOnVoreEnabled>true</isOnVoreEnabled>
+  <isOnGoreGuroEnabled>true</isOnGoreGuroEnabled>
+  <isOnPregnancyEnabled>true</isOnPregnancyEnabled>
+  <isOnIncestEnabled>true</isOnIncestEnabled>
+  <isOnGiantGenitalsEnabled>true</isOnGiantGenitalsEnabled>
+  <isOnBadEndsEnabled>true</isOnBadEndsEnabled>
+  <isOnLoliShotaEnabled>false</isOnLoliShotaEnabled>
+  <isOnTutorialEnabled>true</isOnTutorialEnabled>
+  <isOnClockHas24Hours>true</isOnClockHas24Hours>
+  <isOnFullscreenEnabled>false</isOnFullscreenEnabled>
+  <valueResolutionsDropdown>0</valueResolutionsDropdown>
+  <isOnImperialUnitsEnabled>true</isOnImperialUnitsEnabled>
+  <valueLanguageDropdown>0</valueLanguageDropdown>
+  <valueUIDropdown>0</valueUIDropdown>
+  <isOnMasterVolumeEnabled>true</isOnMasterVolumeEnabled>
+  <valueMasterVolumeSlider>0</valueMasterVolumeSlider>
+  <isOnMenuSFXEnabled>true</isOnMenuSFXEnabled>
+  <valueMenuSFXSlider>0</valueMenuSFXSlider>
+  <isOnCombatSFXEnabled>true</isOnCombatSFXEnabled>
+  <valueCombatSFXSlider>0</valueCombatSFXSlider>
+  <isOnMusicEnabled>true</isOnMusicEnabled>
+  <valueMusicSlider>0</valueMusicSlider>
+  <isOnEffectsSFXEnabled>true</isOnEffectsSFXEnabled>
+  <valueEffectsSFXSlider>0</valueEffectsSFXSlider>
+  <resolutionWidth />
+  <resolutionHeight />
+</SM4OptionClass>

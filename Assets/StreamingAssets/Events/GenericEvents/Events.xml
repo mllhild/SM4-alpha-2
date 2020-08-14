@@ -1,0 +1,37 @@
+<Region>
+	<Mioya>
+			<Mardukane>
+					<Palace>
+						<Events>
+							<PermissionForEntranceDeniedPalace>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/GenericEvents/Images/guard.jpg'/>
+								<AddText>Before you reach your destination you are blocked by a strange guard.</AddText>
+								<BlankLine/>
+								<PersonSpeak person='Strange Guard'>No entrance permitted to the Palace</PersonSpeak>
+							</PermissionForEntranceDeniedPalace>
+						</Events>
+					</Palace>
+
+					<Lake>
+						<Events>
+							
+						</Events>
+					</Lake>
+
+					<LocationIndependent>
+						<Events>
+							<NoLolsGiven>
+								<ClearTextField/>
+								<HideImages/>
+								<SetImage path='/Events/GenericEvents/Images/guard.jpg' fill='true'/>
+								<AddText>This events depends not from a Location.</AddText>
+								<BlankLine/>
+								<PersonSpeak person='Strange Guard'>You still musnt enter.</PersonSpeak>
+							</NoLolsGiven>
+						</Events>
+					</LocationIndependent>
+			</Mardukane>
+	</Mioya>
+</Region>

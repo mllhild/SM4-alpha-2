@@ -1,0 +1,102 @@
+
+<Slave>
+	<_slaveXMLFileStructuretype>0.1</_slaveXMLFileStructuretype>
+	<Events>
+		<UpdateDateTime><!-- 1 --> 
+			
+		</UpdateDateTime> 
+
+		<Night>
+			
+		</Night> <!-- 2 to 6 --> 
+
+		<EarlyMorning></EarlyMorning> <!-- 6 to 7 --> 
+		<Breakfast></Breakfast> <!-- 7 to 8 --> 
+
+		<PlanningMorning></PlanningMorning> <!-- 8 --> 
+		<Morning></Morning> <!-- 8 to 12 --> 
+
+			
+		<Midday><!-- 12 --> 
+			<ANiceStrollInThePark>
+				<ClearTextField/>
+				<HideImages/>
+				<SetImage path='/Slaves/Loli/Images/forest.jpga'/>
+				<AddText>You take a nice stroll in the park.</AddText>
+				<BlankLine/>
+				<AddText>A flowing dress of whitish color comes into your view. Barely transparent enought to make out a diminuiteve frame hidden below it.</AddText>
+			</ANiceStrollInThePark>
+
+			<ANiceStrollAtTheLake>
+				<ClearTextField/>
+				<HideImages/>
+				<SetImage path='/Slaves/Loli/Images/lake.png'/>
+
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='-300' positionY='-200' alpha='0.2'/>
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='-300' positionY='-0' alpha='0.6'/>
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='-300' positionY='200' alpha='1.0'/>
+
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='-500' positionY='-200' colorR='0.1'/>
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='-500' positionY='-0'   colorB='0.1'/>
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='-500' positionY='200'  colorG='0.1'/>
+
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='500' positionY='-200' rotationX='45'/>
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='500' positionY='-0'   rotationY='45'/>
+				<SetImage path='/Slaves/Loli/Images/Item (1).png' scaleX='0.2' scaleY='0.2' positionX='500' positionY='200'  rotationZ='45'/>
+
+				<SetImage path='/Slaves/Loli/Images/Item (2).png' scaleX='0.1' scaleY='0.1' positionX='-200' positionY='200'/>
+				<SetImage path='/Slaves/Loli/Images/Item (3).png' scaleX='0.1' scaleY='0.4' positionX='200' positionY='-200'/>
+
+				
+				<AddText>Fonts sadly alter the complete textfield since this is TMPro and not a standard textfield.</AddText>
+				<BlankLine/>
+
+				<PersonSpeak person='Little Girl' boldName='true' italicName='true' colorName='4DA6FF'>hahahaha <if catgirls='true'>nya! <if doggirls='true'>wan!(nested) </if></if><if doggirls='true'>wan! </if><if birdgirls='true'>chirp! </if> lololo</PersonSpeak>
+
+				<AddText> hihihi</AddText>
+				<BlankLine/>
+				<AddText alpha='CC' bold='true' italic='true' >Now everything can be formatted as you might want with, but the price is that \n doesnt work anymore.</AddText>
+				<BlankLine/>
+				<AddText indent='25%' relativeFontSize='60%'>A flowing dress of whitish color comes into your view. Barely transparent enought to make out a diminuiteve frame hidden below it.</AddText>
+				<LineBreak/>
+				<AddText characterSpacing='1em'>A lot of wasted space.</AddText>
+				
+				<LineBreak/>
+				<PersonSpeak person='sm'>What a nice day for a stroll</PersonSpeak>
+				<LineBreak/>
+				<LineBreak/>
+				<AddText> Lets hope this scrolling works</AddText>
+				<LineBreak/>
+				<PersonSpeak person='Little Girl' boldName='true' italicName='true' colorName='4DA6FF'>You need to say at least a word, </PersonSpeak>
+				<AddText color='FFFFFF'>then continue the Person speak with an AddText, but the formatting doesnt carry over</AddText>
+				<LineBreak/>
+				<LineBreak/>
+				<AddText mark='#ffff00aa'> Want to get this on with2</AddText>
+				<LineBreak/>
+				<AddText mark='#ffff00aa'> Want to get this on with3</AddText>
+				<LineBreak/>
+				<AddText strikethrough='true'> Want to get this on with4\n</AddText>
+				<BlankLine/>
+				<AddText underline='true'> Want to get this on with5\n</AddText>
+			</ANiceStrollAtTheLake>
+		</Midday> 
+		<Lunch></Lunch> <!-- 12 to 14 --> 
+
+		<Afternoon></Afternoon> <!-- 14 to 18 --> 
+			
+		<FinishPlanning></FinishPlanning> <!-- 18 --> 
+		<Dinner></Dinner> <!-- 18 to 19 --> 
+			
+		<PlanningEvening></PlanningEvening> <!-- 19 to 20 --> 
+		<Evening></Evening> <!-- 20 to 24 --> 
+		<MidNight></MidNight> <!-- 0 --> 
+
+		<Atemporal></Atemporal> <!-- please only use this if it has to be checked constantly -->
+
+		<Continuation></Continuation> <!-- the part 2+ of any event goes in here -->
+	</Events>
+
+	<PalnningActs>
+
+	</PalnningActs>
+</Slave>

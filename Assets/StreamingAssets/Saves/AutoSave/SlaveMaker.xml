@@ -1,0 +1,1396 @@
+<?xml version="1.0"?>
+<SM4SlaveMaker xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fertility>0</fertility>
+  <raceID>0</raceID>
+  <averageBodySize>0</averageBodySize>
+  <eyes>
+    <number>0</number>
+    <type>0</type>
+    <pupilForm>0</pupilForm>
+    <nightVision>0</nightVision>
+  </eyes>
+  <ears>
+    <shape>0</shape>
+    <size>0</size>
+    <lenght>0</lenght>
+    <texture>0</texture>
+  </ears>
+  <legs>
+    <number>0</number>
+    <lenght>0</lenght>
+    <thickness>0</thickness>
+    <texture>0</texture>
+  </legs>
+  <arms>
+    <number>0</number>
+    <lenght>0</lenght>
+    <thickness>0</thickness>
+    <texture>0</texture>
+  </arms>
+  <wings>
+    <number>0</number>
+    <lenght>0</lenght>
+    <thickness>0</thickness>
+    <texture>0</texture>
+  </wings>
+  <raceType>0</raceType>
+  <ID>0</ID>
+  <nameChar>
+    <first>firstName</first>
+    <middle>middle</middle>
+    <last>lastName</last>
+    <prefix>Prefix</prefix>
+    <title>title</title>
+    <nickname>nickName</nickname>
+    <slavename>slaveName</slavename>
+    <nameBorn>nameBorn</nameBorn>
+  </nameChar>
+  <characterPronouns />
+  <general>
+    <sexActsOK>false</sexActsOK>
+    <birthday>0</birthday>
+    <age>0</age>
+    <goldEarned>0</goldEarned>
+    <goldOwned>10000</goldOwned>
+    <badGirl>0</badGirl>
+    <behaving>0</behaving>
+    <loyalty>0</loyalty>
+    <attitude>0</attitude>
+    <loveAccepted>0</loveAccepted>
+    <isNaked>false</isNaked>
+    <loli>false</loli>
+    <noble>0</noble>
+  </general>
+  <gender>
+    <current>1</current>
+    <last>2</last>
+    <born>1</born>
+  </gender>
+  <vitals>
+    <height>0</height>
+    <weight>0</weight>
+    <bust>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </bust>
+    <underBustSize>0</underBustSize>
+    <aurola>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </aurola>
+    <cock>
+      <hasCock>false</hasCock>
+      <size>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+      </size>
+      <grid>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+      </grid>
+      <type>0</type>
+      <typeVar>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+      </typeVar>
+    </cock>
+    <testicles>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </testicles>
+    <cum>
+      <volume>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+      </volume>
+      <fertility>0</fertility>
+    </cum>
+    <clit>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </clit>
+    <hasPussy>false</hasPussy>
+    <pussy>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </pussy>
+    <pussyGrid>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </pussyGrid>
+    <waist>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </waist>
+    <throat>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+    </throat>
+  </vitals>
+  <text />
+  <stats>
+    <agility>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </agility>
+    <blowjob>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </blowjob>
+    <charisma>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </charisma>
+    <corruption>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </corruption>
+    <constitution>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </constitution>
+    <cooking>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </cooking>
+    <cleaning>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </cleaning>
+    <conversation>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </conversation>
+    <dominance>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </dominance>
+    <dexterity>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </dexterity>
+    <fuck>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </fuck>
+    <intelligence>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </intelligence>
+    <joy>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </joy>
+    <libido>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </libido>
+    <love>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </love>
+    <mind>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </mind>
+    <morality>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </morality>
+    <nymphomania>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </nymphomania>
+    <obedience>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </obedience>
+    <refinement>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </refinement>
+    <reputation>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </reputation>
+    <sensibility>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </sensibility>
+    <strenght>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </strenght>
+    <submission>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </submission>
+    <temperament>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </temperament>
+    <tiredness>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </tiredness>
+  </stats>
+  <sexSkills>
+    <anal>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </anal>
+    <blowjob>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </blowjob>
+    <bondage>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </bondage>
+    <cumBath>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </cumBath>
+    <dildo>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </dildo>
+    <fuck>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </fuck>
+    <gangBang>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </gangBang>
+    <group>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </group>
+    <kiss>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </kiss>
+    <lendHer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </lendHer>
+    <lesbian>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </lesbian>
+    <lick>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </lick>
+    <masturbate>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </masturbate>
+    <naked>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </naked>
+    <plug>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </plug>
+    <spank>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </spank>
+    <stripTease>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </stripTease>
+    <threesome>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </threesome>
+    <titsFuck>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </titsFuck>
+    <touch>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </touch>
+    <act69>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+    </act69>
+  </sexSkills>
+  <skills>
+    <dancing>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </dancing>
+    <singing>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </singing>
+    <swimming>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </swimming>
+    <slaveTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </slaveTrainer>
+    <likesFemaleTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </likesFemaleTrainer>
+    <likesMaleTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </likesMaleTrainer>
+    <likesFutaTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </likesFutaTrainer>
+    <ponySlaveTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </ponySlaveTrainer>
+    <catSlaveTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </catSlaveTrainer>
+    <dogSlaveTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </dogSlaveTrainer>
+    <cowSlaveTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </cowSlaveTrainer>
+    <succubusTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </succubusTrainer>
+    <slutTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </slutTrainer>
+    <fairyTrainer>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </fairyTrainer>
+    <leadership>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </leadership>
+    <trader>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </trader>
+    <alchemy>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </alchemy>
+    <mage>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </mage>
+    <refined>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </refined>
+    <noble>
+      <min>5</min>
+      <max>100</max>
+      <start>10</start>
+      <last>15</last>
+      <current>20</current>
+      <modifier>1</modifier>
+      <untilNextLevel>100</untilNextLevel>
+    </noble>
+  </skills>
+  <virginity>
+    <vaginal>false</vaginal>
+    <oral>false</oral>
+    <anal>false</anal>
+    <cock>false</cock>
+  </virginity>
+  <training>
+    <likesFemale>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </likesFemale>
+    <likesMale>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </likesMale>
+    <likesFuta>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </likesFuta>
+    <ponySlave>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </ponySlave>
+    <catSlave>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </catSlave>
+    <dogSlave>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </dogSlave>
+    <cowSlave>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </cowSlave>
+    <succubus>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </succubus>
+    <slut>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </slut>
+    <fairy>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </fairy>
+    <courtesan>
+      <trainable>false</trainable>
+      <isBeingTrained>false</isBeingTrained>
+      <resistance>0</resistance>
+      <completion>
+        <min>5</min>
+        <max>100</max>
+        <start>10</start>
+        <last>15</last>
+        <current>20</current>
+        <modifier>1</modifier>
+      </completion>
+    </courtesan>
+  </training>
+  <owner>
+    <isOwned>false</isOwned>
+    <testing>false</testing>
+    <testingUrgent>false</testingUrgent>
+    <ownerIDcurrent>0</ownerIDcurrent>
+    <ownerIDprevious>0</ownerIDprevious>
+  </owner>
+  <father>
+    <ID>0</ID>
+    <raceID>0</raceID>
+    <nameOf />
+  </father>
+  <mother>
+    <ID>0</ID>
+    <raceID>0</raceID>
+    <nameOf />
+  </mother>
+  <varInt>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </varInt>
+  <varString>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </varString>
+  <varBool>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+  </varBool>
+  <listOfInt />
+  <listOfString />
+  <listOfBool />
+  <slaveID>0</slaveID>
+  <trainingStartDate>0</trainingStartDate>
+  <trainingTime>0</trainingTime>
+  <astrid>
+    <chanceToMeet>0</chanceToMeet>
+    <futaAstrid>0</futaAstrid>
+    <futaChance>0</futaChance>
+  </astrid>
+  <generalSlave>
+    <prostituteParty>0</prostituteParty>
+    <highclassParty>0</highclassParty>
+    <callsYouMaster>false</callsYouMaster>
+  </generalSlave>
+  <dating>
+    <dating>0</dating>
+    <loverGender>0</loverGender>
+    <loverRelativeAge>0</loverRelativeAge>
+  </dating>
+  <jobs />
+  <chores />
+  <schools />
+  <misc />
+  <sexNormal />
+  <sexExtreme />
+  <noble>
+    <nobleID>0</nobleID>
+    <nobleLove>0</nobleLove>
+    <state>0</state>
+  </noble>
+  <visits />
+  <slaveCategory>0</slaveCategory>
+  <minReputation>0</minReputation>
+  <showInSlaveMarket>false</showInSlaveMarket>
+  <canBeBought>false</canBeBought>
+  <slavePrice>0</slavePrice>
+  <aviableForTraining>false</aviableForTraining>
+  <contractOnly>false</contractOnly>
+  <products>
+    <trained>0</trained>
+    <sold>0</sold>
+    <kept>0</kept>
+    <bought>0</bought>
+    <lost>0</lost>
+    <escaped>0</escaped>
+    <kidnapped>0</kidnapped>
+    <died>0</died>
+  </products>
+  <generalSM>
+    <supervise>false</supervise>
+  </generalSM>
+  <currentSlaveID>0</currentSlaveID>
+  <rulesAreOn>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+    <boolean>false</boolean>
+  </rulesAreOn>
+  <rulesTextOn>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </rulesTextOn>
+  <rulesTextOff>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </rulesTextOff>
+</SM4SlaveMaker>
